@@ -1,1 +1,2 @@
 # Product-Design
+***Take an idea through concept, design, and user validation phases, and create a spec to handoff to Engineering for development. Use design-thinking methodologies to explore various ideas, and then converge on a single idea. Map out the full concept through creation of a prototype that can be used to validate that you’re solving a problem for real users.***
